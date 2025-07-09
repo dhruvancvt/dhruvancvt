@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dhruv
+# Hi there! 👋 I'm Dhruva
 
 Welcome to my GitHub profile! I'm passionate about technology and building solutions that make a difference.
 
