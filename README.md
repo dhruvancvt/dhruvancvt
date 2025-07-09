@@ -17,16 +17,9 @@ Currently working at **Dynpro**, where I'm leveraging AI to make data easier to 
 ### 📰 Media Bias Detection
 **[mediabiasdetection](https://github.com/dhruvancvt/mediabiasdetection)** - Machine learning solution for detecting and analyzing bias within news articles and media content.
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-```python
-technologies = {
-    "languages": ["Python", "C++", "JavaScript"],
-    "specialties": ["Machine Learning", "Cybersecurity", "Embedded Systems"],
-    "tools": ["Arduino", "TensorFlow", "Scikit-learn", "Git"],
-    "interests": ["AI/ML", "IoT", "Data Analysis", "Security Research"]
-}
-```
 
 ## 📊 GitHub Stats
 
@@ -46,15 +39,7 @@ At **Dynpro**, I'm working on cutting-edge AI solutions that democratize data ac
 - Natural language processing for bias analysis
 - Open-source contributions
 
-## 📈 Fun Facts
 
-- 🔍 I enjoy solving complex problems through data-driven approaches
-- 🌱 Always learning new technologies and methodologies
-- 🤝 Open to collaborating on innovative projects
-- ⚡ Passionate about creating technology that positively impacts society
 
----
 
-*"Code is poetry written in logic"* ✨
 
-![Profile views](https://komarev.com/ghpvc/?username=dhruvancvt&color=brightgreen)
